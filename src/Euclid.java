@@ -12,7 +12,7 @@ public class Euclid {
         }
     
         public static int gcd(int a, int b) {
-
+           // Your code here
        
         }
     
